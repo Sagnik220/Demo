@@ -4,8 +4,7 @@ import random
 import pandas as pd
 import string
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+
 
 app = Flask(__name__)
 
