@@ -1,6 +1,7 @@
 numpy
 flask
 Werkzeug
+nltk
 gunicorn
 pandas
 Jinja2
