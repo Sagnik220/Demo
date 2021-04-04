@@ -1,7 +1,7 @@
 ### SpamDee Web Application:
 ----------
 
-Link:  http://cashmoney22.pythonanywhere.com/
+App Link:  http://cashmoney22.pythonanywhere.com/
 
 #### Description:
 The web app, which uses natural language processing to classify input messages into 3 categories using Naive-Bayes Algorithm.
