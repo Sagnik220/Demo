@@ -13,7 +13,7 @@ The web app, which uses natural language processing to classify input messages i
 ***Important Message:***
 You'll need to log in at least once every three months and click the "Run until 3 months from today" button below. We'll send you an email a week before the site is disabled so that you don't forget to do that. See here for more details.
 
-This site will be disabled on Sunday 04 July 2021
+This site will be disabled on Monday 2 August 2021
 
 
 #### Problems & Scope of Improvement:
